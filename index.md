@@ -22,4 +22,4 @@ You can find my CV [here](./another-page.html).
 
 ## Music
 
-[here](./https://soundcloud.com/timomaja) 
+[Soundcloud](https://soundcloud.com/timomaja) 
