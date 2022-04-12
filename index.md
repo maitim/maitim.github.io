@@ -1,11 +1,9 @@
 ---
 layout: default
 ---
+bli blub
 
-I am a ML Master's student at the University of Tübingen, my interests are bayesian ML, causality
-and deep learning with applications in biomedicine and the health sector. 
-
-You can find my CV [here](./another-page.html).
+[Panorama](./pdf/panorama.pdf).
 
 
 ## Books
@@ -22,4 +20,4 @@ You can find my CV [here](./another-page.html).
 
 ## Music
 
-[Soundcloud](https://soundcloud.com/timomaja) 
+[Soundcloud](https://soundcloud.com/timomaja)
