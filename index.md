@@ -3,21 +3,12 @@ layout: default
 ---
 bli blub
 
-[Panorama](./pdf/panorama.pdf).
+![image](./pdf/Flug.jpg).
 
 
-## Books
+# Herzlichen Glückwunsch zum Geburtstag, Frau Jana Hölker!
 
+# Sie haben einen Flug nach London Stansted gewonnen!
 
+Ryanair Economy Value, richtig geil
 
-## Blog posts
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-
-
-## Music
-
-[Soundcloud](https://soundcloud.com/timomaja)
